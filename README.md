@@ -5,6 +5,12 @@ Constructing effective test suites for a code base is very important. Having a s
 ## Sections
 
 **Tools for debugging Javascript Code**
+
+
 **Techniques for generating tests**
+
+
 **Building a test suite**
+
+
 **How to test asynchronous operations**
